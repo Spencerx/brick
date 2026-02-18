@@ -94,9 +94,9 @@ mouseClickClip =
     [ withDefAttr attr6 $ str "0"
     , withDefAttr attr5 $ str "O"
     , withDefAttr attr4 $ str "o"
-    , withDefAttr attr3 $ str "*"
-    , withDefAttr attr2 $ str "~"
-    , withDefAttr attr1 $ str "."
+    , withDefAttr attr3 $ str "•"
+    , withDefAttr attr2 $ str "*"
+    , withDefAttr attr2 $ str "."
     ]
 
 attr6 :: AttrName
