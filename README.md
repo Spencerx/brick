@@ -214,6 +214,8 @@ Contributing
 If you decide to contribute, that's great! Here are some guidelines you
 should consider to make submitting patches easier for all concerned:
 
+ - Patches written completely or partially by AI are unlikely to be
+   accepted.
  - If you want to take on big things, talk to me first; let's have a
    design/vision discussion before you start coding. Create a GitHub
    issue and we can use that as the place to hash things out.
