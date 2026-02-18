@@ -340,7 +340,7 @@ str = txt . T.pack
 -- input text should not contain escape sequences or carriage returns.
 txt :: T.Text -> Widget n
 txt s =
-    -- Althoguh vty Image uses lazy Text internally, using lazy text at this
+    -- Although vty Image uses lazy Text internally, using lazy text at this
     -- level may not be an improvement.  Indeed it can be much worse, due
     -- the overhead of lazy Text being significant compared to the typically
     -- short string content used to compose UIs.
